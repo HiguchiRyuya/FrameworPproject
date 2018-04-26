@@ -4,7 +4,7 @@
 // グリッドの床を描画するクラス
 //
 // Date: 2018.4.14
-// Author: Hideyasu Imase
+// Author: Higuchi Ryuya
 //--------------------------------------------------------------------------------------
 #include "pch.h"
 #include "GridFloor.h"
